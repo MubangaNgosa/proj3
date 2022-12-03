@@ -1,0 +1,217 @@
+﻿group,variable,country,year
+A,v1,Afghanistan,105
+A,v2,Albania,155
+A,v3,Algeria,800
+A,v4,Andorra,--
+A,v5,Angola,75
+A,v6,Anguilla,0
+A,v7,Antigua and Barbuda,75
+A,v8,Argentina,175
+A,v9,Armenia,30
+A,v10,Aruba,0
+A,v11,Australia,470
+A,v12,Austria,150
+A,v13,Azerbaijan,105
+A,v14,Bahama Islands,680
+B,v1,Bahrain,40
+B,v2,Bangladesh,"1,795"
+B,v3,Barbados,230
+B,v4,Belarus,50
+B,v5,Belgium,415
+B,v6,Belize,85
+B,v7,Benin,380
+B,v8,Bermuda,0
+B,v9,Bhutan,25
+B,v10,Bolivia,55
+B,v11,Sin Eustatius And Saba Bonaire,0
+B,v12,Bosnia-Herzegovina,20
+B,v13,Botswana,60
+B,v14,Brazil,"7,295"
+C,v1,Brunei,10
+C,v2,Bulgaria,60
+C,v3,Burkina-Faso,350
+C,v4,Burundi,255
+C,v5,Cambodia,100
+C,v6,Cameroon,"1,095"
+C,v7,Cape Verde Islands,5
+C,v8,Cayman Islands,0
+C,v9,Central African Republic,35
+C,v10,Chad,80
+C,v11,Chile,430
+C,v12,China,"76,840"
+C,v13,Colombia,"1,675"
+C,v14,Comoros,5
+D,v1,Democratic Republic of the Congo,550
+D,v2,People's Republic of the Congo,155
+D,v3,Costa Rica,85
+D,v4,Croatia,85
+D,v5,Cuba,70
+D,v6,Curacao,0
+D,v7,Cyprus,10
+D,v8,Czech Republic,135
+D,v9,Denmark,105
+D,v10,Djibouti,35
+D,v11,Dominica,25
+D,v12,Dominican Republic,225
+D,v13,Democratic Republic of East Timor,0
+D,v14,Ecuador,525
+E,v1,Egypt,"1,035"
+E,v2,El Salvador,210
+E,v3,Republic of Equatorial Guinea,10
+E,v4,Eritrea,115
+E,v5,Estonia,30
+E,v6,Ethiopia,210
+E,v7,Fiji,25
+E,v8,Finland,120
+E,v9,France,"11,825"
+E,v10,French Guiana,0
+E,v11,French Polynesia,0
+E,v12,Gabon Republic,70
+E,v13,Gambia,60
+E,v14,Georgia,15
+F,v1,Germany,"2,220"
+F,v2,Ghana,855
+F,v3,Greece,175
+F,v4,Grenada,40
+F,v5,Guadeloupe,0
+F,v6,Guatemala,60
+F,v7,Republic of Guinea,290
+F,v8,Guinea-Bissau,0
+F,v9,Guyana,175
+F,v10,Haiti,445
+F,v11,Holy See,0
+F,v12,Honduras,125
+F,v13,Hong Kong SAR,"2,355"
+F,v14,Hungary,115
+G,v1,Iceland,40
+G,v2,India,"52,625"
+G,v3,Indonesia,820
+G,v4,Iran,"2,960"
+G,v5,Iraq,145
+G,v6,Ireland,230
+G,v7,Israel,430
+G,v8,Italy,"1,390"
+G,v9,Ivory Coast,675
+G,v10,Jamaica,"1,680"
+G,v11,Japan,"6,685"
+G,v12,Jordan,410
+G,v13,Kazakhstan,585
+G,v14,Kenya,670
+H,v1,People's Democratic Republic of Korea,5
+H,v2,Republic of Korea,"15,935"
+H,v3,Republic of Kosovo,45
+H,v4,Kuwait,145
+H,v5,Kyrgyzstan,40
+H,v6,Laos,15
+H,v7,Latvia,35
+H,v8,Lebanon,475
+H,v9,Lesotho,5
+H,v10,Liberia,10
+H,v11,Libya,965
+H,v12,Liechtenstein,--
+H,v13,Lithuania,40
+H,v14,Luxembourg,35
+I,v1,Macau SAR,195
+I,v2,Macedonia,30
+I,v3,Madagascar,170
+I,v4,Malawi,30
+I,v5,Malaysia,635
+I,v6,Republic of Maldives,5
+I,v7,Republic of Mali,410
+I,v8,Malta,--
+I,v9,Republic of the Marshall Islands,0
+I,v10,Martinique,0
+I,v11,Mauritania,35
+I,v12,Mauritius,505
+I,v13,Mexico,"4,905"
+I,v14,Moldova,45
+J,v1,Monaco,--
+J,v2,People's Republic of Mongolia,160
+J,v3,Montenegro,--
+J,v4,Morocco,"1,495"
+J,v5,Mozambique,5
+J,v6,Myanmar (Burma),30
+J,v7,Namibia,15
+J,v8,Nepal,215
+J,v9,The Netherlands Antilles,0
+J,v10,Netherlands,330
+J,v11,New Caledonia,--
+J,v12,New Zealand,125
+J,v13,Nicaragua,15
+J,v14,Republic of the Niger,115
+K,v1,Nigeria,"6,160"
+K,v2,Norway,160
+K,v3,Oman,70
+K,v4,Other,30
+K,v5,Pakistan,"2,545"
+K,v6,Republic of Palau,--
+K,v7,Palestinian Authority (Gaza/West Bank),110
+K,v8,Republic of Panama,105
+K,v9,Papua New Guinea,10
+K,v10,Paraguay,35
+K,v11,Peru,395
+K,v12,Philippines,"2,895"
+K,v13,Poland,190
+K,v14,Portugal,260
+L,v1,Qatar,20
+L,v2,Reunion,0
+L,v3,Romania,115
+L,v4,Russia,"1,495"
+L,v5,Rwanda,335
+L,v6,Saint-Martin,0
+L,v7,Independent State of Samoa,0
+L,v8,San Marino,--
+L,v9,Sao Tome and Principe,0
+L,v10,Saudi Arabia,"5,480"
+L,v11,Senegal,705
+L,v12,Republic of Serbia,100
+L,v13,Seychelles,10
+L,v14,Sierra Leone,25
+M,v1,Singapore,275
+M,v2,Sint-Maarten,0
+M,v3,Slovak Republic,155
+M,v4,Slovenia,20
+M,v5,The Solomons,10
+M,v6,Somalia,80
+M,v7,South Africa,330
+M,v8,South Sudan,10
+M,v9,Spain,"1,405"
+M,v10,Sri Lanka,400
+M,v11,St. Kitts-Nevis,35
+M,v12,St. Lucia,85
+M,v13,St. Vincent and the Grenadines,40
+M,v14,Stateless,80
+N,v1,Democratic Republic of Sudan,95
+N,v2,Surinam,10
+N,v3,Swaziland,10
+N,v4,Sweden,200
+N,v5,Switzerland,440
+N,v6,Syria,185
+N,v7,Taiwan,"2,650"
+N,v8,Tajikistan,10
+N,v9,Tanzania,360
+N,v10,Thailand,800
+N,v11,Togo,255
+N,v12,Tonga,0
+N,v13,Trinidad and Tobago,215
+N,v14,Tunisia,"1,130"
+O,v1,Turkey,"2,215"
+O,v2,Turkmenistan,10
+O,v3,Tuvalu,0
+O,v4,Uganda,250
+O,v5,Ukraine,"1,910"
+O,v6,United Arab Emirates,40
+O,v7,United Kingdom and Overseas Territories,"2,215"
+O,v8,United States Minor Outlying Islands,0
+O,v9,United States of America,"6,230"
+O,v10,Uruguay,15
+O,v11,Uzbekistan,35
+O,v12,Vanuatu,0
+O,v13,Venezuela,"1,410"
+O,v14,Vietnam,"5,320"
+P,v1,British Virgin Islands,0
+P,v2,Western Sahara,0
+P,v3,Yemen,200
+P,v4,Zambia,115
+P,v5,Zimbabwe,490
+P,v6,Country of Citizenship not stated,--
