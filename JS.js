@@ -13,7 +13,7 @@ var svg = d3.select("#myWaffleChart")
         "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("data1.csv", function(data) {
+d3.csv("data8.csv", function(data) {
 
     // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
     var myGroups = d3.map(data, function(d){return d.group;}).keys()
@@ -66,7 +66,7 @@ d3.csv("data1.csv", function(data) {
     }
     var mousemove = function(d) {
         tooltip
-            .html(d.country + " The exact value of<br>this cell is: " + d.value)
+            .html(d.country + "<br> Number of students: " + d.value)
             .style("left", (d3.mouse(this)[0]+70) + "px")
             .style("top", (d3.mouse(this)[1]) + "px")
     }
@@ -116,12 +116,8 @@ svg.append("text"
     .style("max-width", 400)
     .text("A short description of the take-away message of this chart."));
 
-function updateCSV(dataSource) {
-    d3.select("#myWaffleChart").select("div").remove();
-   // svg.clearRect(0, 0, canvas.width, canvas.height);
-    return undefined;
-}
-
+/*
 // on click change the csv file
 d3.select("#button_2015").on("click", updateCSV(selectedDataset = "data1.csv"));
 d3.select("#button_2016").on("click", updateCSV(selectedDataset = "data2.csv"));
+*/

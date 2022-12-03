@@ -1,217 +1,217 @@
-﻿Country,year
-Afghanistan,85
-Albania,230
-Algeria,2040
-Andorra,0
-Angola,30
-Anguilla,0
-Antigua and Barbuda,45
-Argentina,180
-Armenia,10
-Aruba,0
-Australia,250
-Austria,55
-Azerbaijan,100
-Bahama Islands,505
-Bahrain,25
-Bangladesh,3165
-Barbados,170
-Belarus,35
-Belgium,305
-Belize,50
-Benin,325
-Bermuda,15
-Bhutan,85
-Bolivia,50
-Sin Eustatius And Saba Bonaire,0
-Bosnia-Herzegovina,20
-Botswana,55
-Brazil,6040
-Brunei,5
-Bulgaria,40
-Burkina-Faso,440
-Burundi,190
-Cambodia,75
-Cameroon,1065
-Cape Verde Islands,--
-Cayman Islands,--
-Central African Republic,20
-Chad,55
-Chile,435
-China,57775
-Colombia,3010
-Comoros,10
-Democratic Republic of the Congo,790
-People's Republic of the Congo,115
-Costa Rica,80
-Croatia,35
-Cuba,75
-Curacao,0
-Cyprus,10
-Czech Republic,85
-Denmark,40
-Djibouti,30
-Dominica,30
-Dominican Republic,200
-Democratic Republic of East Timor,--
-Ecuador,590
-Egypt,1010
-El Salvador,180
-Republic of Equatorial Guinea,--
-Eritrea,60
-Estonia,10
-Ethiopia,220
-Fiji,15
-Finland,55
-France,7935
-French Guiana,0
-French Polynesia,--
-Gabon Republic,80
-Gambia,45
-Georgia,5
-Germany,795
-Ghana,815
-Greece,135
-Grenada,40
-Guadeloupe,--
-Guatemala,45
-Republic of Guinea,330
-Guinea-Bissau,--
-Guyana,215
-Haiti,480
-Holy See,--
-Honduras,105
-Hong Kong SAR,2605
-Hungary,60
-Iceland,30
-India,80885
-Indonesia,775
-Iran,6965
-Iraq,130
-Ireland,115
-Israel,400
-Italy,790
-Ivory Coast,880
-Jamaica,1255
-Japan,3490
-Jordan,630
-Kazakhstan,365
-Kenya,815
-People's Democratic Republic of Korea,5
-Republic of Korea,10930
-Republic of Kosovo,40
-Kuwait,100
-Kyrgyzstan,50
-Laos,10
-Latvia,25
-Lebanon,535
-Lesotho,--
-Liberia,10
-Libya,445
-Liechtenstein,0
-Lithuania,25
-Luxembourg,20
-Macau SAR,140
-Macedonia,15
-Madagascar,180
-Malawi,20
-Malaysia,405
-Republic of Maldives,--
-Republic of Mali,425
-Malta,5
-Republic of the Marshall Islands,--
-Martinique,--
-Mauritania,45
-Mauritius,275
-Mexico,3650
-Moldova,30
-Monaco,--
-People's Republic of Mongolia,85
-Montenegro,5
-Morocco,2465
-Mozambique,10
-Myanmar (Burma),60
-Namibia,15
-Nepal,530
-The Netherlands Antilles,--
-Netherlands,150
-New Caledonia,--
-New Zealand,75
-Nicaragua,15
-Republic of the Niger,110
-Nigeria,5840
-Norway,45
-Oman,40
-Other,0
-Pakistan,1590
-Republic of Palau,0
-Palestinian Authority (Gaza/West Bank),145
-Republic of Panama,145
-Papua New Guinea,--
-Paraguay,10
-Peru,445
-Philippines,4360
-Poland,90
-Portugal,170
-Qatar,10
-Reunion,0
-Romania,85
-Russia,1030
-Rwanda,420
-Saint-Martin,0
-Independent State of Samoa,0
-San Marino,0
-Sao Tome and Principe,0
-Saudi Arabia,715
-Senegal,820
-Republic of Serbia,120
-Seychelles,--
-Sierra Leone,30
-Singapore,215
-Sint-Maarten,0
-Slovak Republic,60
-Slovenia,15
-The Solomons,--
-Somalia,40
-South Africa,410
-South Sudan,10
-Spain,570
-Sri Lanka,795
-St. Kitts-Nevis,35
-St. Lucia,55
-St. Vincent and the Grenadines,25
-Stateless,90
-Democratic Republic of Sudan,165
-Surinam,10
-Swaziland,5
-Sweden,115
-Switzerland,205
-Syria,195
-Taiwan,2150
-Tajikistan,15
-Tanzania,310
-Thailand,530
-Togo,250
-Tonga,--
-Trinidad and Tobago,200
-Tunisia,1305
-Turkey,1895
-Turkmenistan,10
-Tuvalu,0
-Uganda,275
-Ukraine,975
-United Arab Emirates,25
-United Kingdom and Overseas Territories,1040
-United States Minor Outlying Islands,0
-United States of America,4250
-Uruguay,35
-Uzbekistan,25
-Vanuatu,--
-Venezuela,555
-Vietnam,9360
-British Virgin Islands,0
-Western Sahara,--
-Yemen,250
-Zambia,95
-Zimbabwe,320
-Country of Citizenship not stated,0
+﻿group,variable,country,value
+A,v1,Afghanistan,85
+A,v2,Albania,230
+A,v3,Algeria,2040
+A,v4,Andorra,0
+A,v5,Angola,30
+A,v6,Anguilla,0
+A,v7,Antigua and Barbuda,45
+A,v8,Argentina,180
+A,v9,Armenia,10
+A,v10,Aruba,0
+A,v11,Australia,250
+A,v12,Austria,55
+A,v13,Azerbaijan,100
+A,v14,Bahama Islands,505
+B,v1,Bahrain,25
+B,v2,Bangladesh,3165
+B,v3,Barbados,170
+B,v4,Belarus,35
+B,v5,Belgium,305
+B,v6,Belize,50
+B,v7,Benin,325
+B,v8,Bermuda,15
+B,v9,Bhutan,85
+B,v10,Bolivia,50
+B,v11,Sin Eustatius And Saba Bonaire,0
+B,v12,Bosnia-Herzegovina,20
+B,v13,Botswana,55
+B,v14,Brazil,6040
+C,v1,Brunei,5
+C,v2,Bulgaria,40
+C,v3,Burkina-Faso,440
+C,v4,Burundi,190
+C,v5,Cambodia,75
+C,v6,Cameroon,1065
+C,v7,Cape Verde Islands,--
+C,v8,Cayman Islands,--
+C,v9,Central African Republic,20
+C,v10,Chad,55
+C,v11,Chile,435
+C,v12,China,57775
+C,v13,Colombia,3010
+C,v14,Comoros,10
+D,v1,Democratic Republic of the Congo,790
+D,v2,People's Republic of the Congo,115
+D,v3,Costa Rica,80
+D,v4,Croatia,35
+D,v5,Cuba,75
+D,v6,Curacao,0
+D,v7,Cyprus,10
+D,v8,Czech Republic,85
+D,v9,Denmark,40
+D,v10,Djibouti,30
+D,v11,Dominica,30
+D,v12,Dominican Republic,200
+D,v13,Democratic Republic of East Timor,--
+D,v14,Ecuador,590
+E,v1,Egypt,1010
+E,v2,El Salvador,180
+E,v3,Republic of Equatorial Guinea,--
+E,v4,Eritrea,60
+E,v5,Estonia,10
+E,v6,Ethiopia,220
+E,v7,Fiji,15
+E,v8,Finland,55
+E,v9,France,7935
+E,v10,French Guiana,0
+E,v11,French Polynesia,--
+E,v12,Gabon Republic,80
+E,v13,Gambia,45
+E,v14,Georgia,5
+F,v1,Germany,795
+F,v2,Ghana,815
+F,v3,Greece,135
+F,v4,Grenada,40
+F,v5,Guadeloupe,--
+F,v6,Guatemala,45
+F,v7,Republic of Guinea,330
+F,v8,Guinea-Bissau,--
+F,v9,Guyana,215
+F,v10,Haiti,480
+F,v11,Holy See,--
+F,v12,Honduras,105
+F,v13,Hong Kong SAR,2605
+F,v14,Hungary,60
+G,v1,Iceland,30
+G,v2,India,80885
+G,v3,Indonesia,775
+G,v4,Iran,6965
+G,v5,Iraq,130
+G,v6,Ireland,115
+G,v7,Israel,400
+G,v8,Italy,790
+G,v9,Ivory Coast,880
+G,v10,Jamaica,1255
+G,v11,Japan,3490
+G,v12,Jordan,630
+G,v13,Kazakhstan,365
+G,v14,Kenya,815
+H,v1,People's Democratic Republic of Korea,5
+H,v2,Republic of Korea,10930
+H,v3,Republic of Kosovo,40
+H,v4,Kuwait,100
+H,v5,Kyrgyzstan,50
+H,v6,Laos,10
+H,v7,Latvia,25
+H,v8,Lebanon,535
+H,v9,Lesotho,--
+H,v10,Liberia,10
+H,v11,Libya,445
+H,v12,Liechtenstein,0
+H,v13,Lithuania,25
+H,v14,Luxembourg,20
+I,v1,Macau SAR,140
+I,v2,Macedonia,15
+I,v3,Madagascar,180
+I,v4,Malawi,20
+I,v5,Malaysia,405
+I,v6,Republic of Maldives,--
+I,v7,Republic of Mali,425
+I,v8,Malta,5
+I,v9,Republic of the Marshall Islands,--
+I,v10,Martinique,--
+I,v11,Mauritania,45
+I,v12,Mauritius,275
+I,v13,Mexico,3650
+I,v14,Moldova,30
+J,v1,Monaco,--
+J,v2,People's Republic of Mongolia,85
+J,v3,Montenegro,5
+J,v4,Morocco,2465
+J,v5,Mozambique,10
+J,v6,Myanmar (Burma),60
+J,v7,Namibia,15
+J,v8,Nepal,530
+J,v9,The Netherlands Antilles,--
+J,v10,Netherlands,150
+J,v11,New Caledonia,--
+J,v12,New Zealand,75
+J,v13,Nicaragua,15
+J,v14,Republic of the Niger,110
+K,v1,Nigeria,5840
+K,v2,Norway,45
+K,v3,Oman,40
+K,v4,Other,0
+K,v5,Pakistan,1590
+K,v6,Republic of Palau,0
+K,v7,Palestinian Authority (Gaza/West Bank),145
+K,v8,Republic of Panama,145
+K,v9,Papua New Guinea,--
+K,v10,Paraguay,10
+K,v11,Peru,445
+K,v12,Philippines,4360
+K,v13,Poland,90
+K,v14,Portugal,170
+L,v1,Qatar,10
+L,v2,Reunion,0
+L,v3,Romania,85
+L,v4,Russia,1030
+L,v5,Rwanda,420
+L,v6,Saint-Martin,0
+L,v7,Independent State of Samoa,0
+L,v8,San Marino,0
+L,v9,Sao Tome and Principe,0
+L,v10,Saudi Arabia,715
+L,v11,Senegal,820
+L,v12,Republic of Serbia,120
+L,v13,Seychelles,--
+L,v14,Sierra Leone,30
+M,v1,Singapore,215
+M,v2,Sint-Maarten,0
+M,v3,Slovak Republic,60
+M,v4,Slovenia,15
+M,v5,The Solomons,--
+M,v6,Somalia,40
+M,v7,South Africa,410
+M,v8,South Sudan,10
+M,v9,Spain,570
+M,v10,Sri Lanka,795
+M,v11,St. Kitts-Nevis,35
+M,v12,St. Lucia,55
+M,v13,St. Vincent and the Grenadines,25
+M,v14,Stateless,90
+N,v1,Democratic Republic of Sudan,165
+N,v2,Surinam,10
+N,v3,Swaziland,5
+N,v4,Sweden,115
+N,v5,Switzerland,205
+N,v6,Syria,195
+N,v7,Taiwan,2150
+N,v8,Tajikistan,15
+N,v9,Tanzania,310
+N,v10,Thailand,530
+N,v11,Togo,250
+N,v12,Tonga,--
+N,v13,Trinidad and Tobago,200
+N,v14,Tunisia,1305
+O,v1,Turkey,1895
+O,v2,Turkmenistan,10
+O,v3,Tuvalu,0
+O,v4,Uganda,275
+O,v5,Ukraine,975
+O,v6,United Arab Emirates,25
+O,v7,United Kingdom and Overseas Territories,1040
+O,v8,United States Minor Outlying Islands,0
+O,v9,United States of America,4250
+O,v10,Uruguay,35
+O,v11,Uzbekistan,25
+O,v12,Vanuatu,--
+O,v13,Venezuela,555
+O,v14,Vietnam,9360
+P,v1,British Virgin Islands,0
+P,v2,Western Sahara,--
+P,v3,Yemen,250
+P,v4,Zambia,95
+P,v5,Zimbabwe,320
+P,v6,Country of Citizenship not stated,0
