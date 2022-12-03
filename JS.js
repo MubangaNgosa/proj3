@@ -66,7 +66,7 @@ d3.csv("data1.csv", function(data) {
     }
     var mousemove = function(d) {
         tooltip
-            .html("The exact value of<br>this cell is: " + d.value)
+            .html(d.country + " The exact value of<br>this cell is: " + d.value)
             .style("left", (d3.mouse(this)[0]+70) + "px")
             .style("top", (d3.mouse(this)[1]) + "px")
     }
@@ -107,11 +107,21 @@ svg.append("text")
     .text("A d3.js heatmap");
 
 // Add subtitle to graph
-svg.append("text")
+svg.append("text"
     .attr("x", 0)
     .attr("y", -20)
     .attr("text-anchor", "left")
     .style("font-size", "14px")
     .style("fill", "grey")
     .style("max-width", 400)
-    .text("A short description of the take-away message of this chart.");
+    .text("A short description of the take-away message of this chart."));
+
+function updateCSV(dataSource) {
+    d3.select("#myWaffleChart").select("div").remove();
+   // svg.clearRect(0, 0, canvas.width, canvas.height);
+    return undefined;
+}
+
+// on click change the csv file
+d3.select("#button_2015").on("click", updateCSV(selectedDataset = "data1.csv"));
+d3.select("#button_2016").on("click", updateCSV(selectedDataset = "data2.csv"));
